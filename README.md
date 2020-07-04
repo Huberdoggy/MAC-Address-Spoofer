@@ -10,7 +10,7 @@
 ## Screenshots
 ![Screen Shot 2020-07-03 at 9 54 55 PM](https://user-images.githubusercontent.com/16614357/86504348-f0b1cd00-bd7c-11ea-8c41-a92aafd52910.png)
 ![Screen Shot 2020-07-03 at 10 28 35 PM](https://user-images.githubusercontent.com/16614357/86504350-f27b9080-bd7c-11ea-9493-fe4f0abbe7cf.png)
-![Screen Shot 2020-07-03 at 10 29 25 PM](https://user-images.githubusercontent.com/16614357/86504352-f4455400-bd7c-11ea-873f-2ed7d9b92392.png)
+![Screen Shot 2020-07-03 at 10 56 36 PM](https://user-images.githubusercontent.com/16614357/86504678-25c01e80-bd81-11ea-8b1d-0a3313ca96a1.png)
 
 
 ## Usage
